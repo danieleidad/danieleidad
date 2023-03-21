@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danieleidad
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science at Platzi
-- 💞️ I’m looking to collaborate on data research related to social sciences
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analytics at Platzi and Coursera
+- 💞️ I’m looking to collaborate on data research related to knowledge 
 - 📫 How to reach me: dancasfig@gmail.com
 
 <!---
